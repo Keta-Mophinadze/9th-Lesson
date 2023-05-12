@@ -1,7 +1,7 @@
 .background-image {
     background-image: url(../images/112622-minimalism-space-stars.jpg);
     width: 100%;
-    height: 850px;
+    height: 100vh;
     position: relative;
 }
 /* Solar System */
